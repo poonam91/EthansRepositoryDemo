@@ -16,7 +16,7 @@ public class MyJenkinsTest
 		
 		WebDriver driver = new ChromeDriver();
 		 
-		 driver.get("http://www.facebook.com/"); 
+		 driver.get("http://www.google.com/"); 
 		 
 		 System.out.println(driver.getTitle());
 		 
